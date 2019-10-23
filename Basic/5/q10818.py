@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/10818
+# 최대, 최소
 
 import sys
 
